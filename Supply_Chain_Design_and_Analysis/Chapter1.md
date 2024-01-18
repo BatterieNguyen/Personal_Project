@@ -15,8 +15,12 @@ Elements of customers service influenced by network structure:
   > The ease with which a customer can return unsatisfactory merchandise and the ability of the network to handle such returns. 
 
 
-Desired response time and number of facilities 
+In-transit merge network 
+* the requirement for this distrbution investment in infrastructure // cooperation between factories // every products need to be standardized
+* the product suitable for this model is meadium-moving
 
+=> the more factories = the more complicated => should be less than 5 manufacturers
+__DISTRIBUTOR STORAGE WITH CARRIER DELIVERY
 
-
+# Reference 
 [Designing the Distribution Network in a Supply Chain](https://transportation.northwestern.edu/docs/research/core-topics/logistics-and-supply-chain-management/Chopra_DistributionSupplyChain.pdf?fbclid=IwAR24G9VWkI6pLl2FL6_syMZc3jfxv1-0S4FmfdAbCsejLIlWDsYJxpX1pf4)
