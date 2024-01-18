@@ -22,5 +22,9 @@ In-transit merge network
 => the more factories = the more complicated => should be less than 5 manufacturers
 __DISTRIBUTOR STORAGE WITH CARRIER DELIVERY
 
+
+
+milk-run
+
 # Reference 
 [Designing the Distribution Network in a Supply Chain](https://transportation.northwestern.edu/docs/research/core-topics/logistics-and-supply-chain-management/Chopra_DistributionSupplyChain.pdf?fbclid=IwAR24G9VWkI6pLl2FL6_syMZc3jfxv1-0S4FmfdAbCsejLIlWDsYJxpX1pf4)
